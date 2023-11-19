@@ -15,31 +15,31 @@ Welcome to my GitHub portfolio! This repository showcases some of the projects I
 
 This directory contains projects completed through course work. There is a variety of models used throughout the projects.
 
-Repository: [Link to Project Repository](projects/machine-learning/course-work)
+Repository: [Course Work](projects/machine-learning/course-work)
 
 ### Project 1: Deep Steer 2
 
 For the Deep Steer 2 project, a mixture was used of machine vision, machine learning and artificial intelligence based on popular pre-trained Convolutional Neural Networks to autonomously steer a vehicle.  The team developed and tested this approach on the LTU (Lawrence Technological University) ACTor (Autonomous Camus TranspORt) vehicle - an autonomous vehicle development and research platform. The Deep Steer 2 project is a continuation on the previous research project Deep Steer 1, with changes to the neural network architecture by adding two more layers.
 
-Repository: [Link to Project Repository](projects/machine-learning/deep-steer-2)
+Repository: [Deep Steer 2](projects/machine-learning/deep-steer-2)
 
 ### Project 2: Housing Market Price Prediction
 
 For this project a dataset was found on Kaggle published by Harish Kumardatalab. The goal of this project was to accurately predict future housing market prices based off of several features including price, area, bedrooms, bathrooms, stories, main road, guestroom, basement, hot water heating, air conditioning, parking, prefarea, and furnishing status.
 
-Repository: [Link to Project Repository](projects/machine-learning/housing-market-price-prediction)
+Repository: [Housing Market Price Prediction](projects/machine-learning/housing-market-price-prediction)
 
 ### Project 3: Basic React JS App
 
 For this project a basic React JS app was designed and developed. The goal of this project was to provide a simple shopping list with functionalities including adding to the list, checking boxes for items in the list, deleting items in the list, and persistant saving of items when the web app is reloaded to prevent loss of data.
 
-Repository: [Link to Project Repository](projects/react-app)
+Repository: [React App](projects/react-app)
 
 ### Project 4: Titanic Problem
 
 For this project a dataset was found on Kaggle that contained a list of all people who were aboard the titanic and data relevent to them and the sinking of the ship. The goal of this project was to accurately predict which persons were most likely to survive the devastating crash and compare to the actual persons who survived. Several machine learning models were used and compared including logistic regression, random forests, support vector machines, and gradient boosting.
 
-Repository: [Link to Project Repository](projects/machine-learning/titanic-problem)
+Repository: [Titanic Problem](projects/machine-learning/titanic-problem)
 
 ## Skills
 
@@ -49,10 +49,10 @@ Repository: [Link to Project Repository](projects/machine-learning/titanic-probl
 
 ## Education
 
-Lawrence Technological University - Southfield, MI
+Lawrence Technological University - Southfield, MI<br>
 Master of Science, Major in Computer Science; Focus in Artificial Intelligence
 
-Lawrence Technological University - Southfield, MI
+Lawrence Technological University - Southfield, MI<br>
 Bachelor of Science, Major in Computer Science; Minor in Mathematics
 
 ## Contact
