@@ -9,7 +9,7 @@ I am a passionate software developer with a strong foundation in [mention your k
 - **Name:** Austin Ramsey
 - **Location:** Michigan, United States
 - **Email:** ramseydevelop@gmail.com
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/austin-r-7777a8180/)
+- **LinkedIn:** [Link to profile](https://www.linkedin.com/in/austin-r-7777a8180/)
 
 ## Projects
 
