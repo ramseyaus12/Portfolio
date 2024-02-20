@@ -57,7 +57,7 @@ Bachelor of Science, Major in Computer Science; Minor in Mathematics
 
 ## Contact
 
-Feel free to reach out to me via email at ramseydevelop@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/yourusername/).
+Feel free to reach out to me via email at ramseyaus12@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/yourusername/).
 
 ---
 
